@@ -1,0 +1,7 @@
+src_dir: "/home/ankul/obsidian"
+template_dir: "/home/ankul/obsidian/_template/ALL.md"
+log_level: "info"
+concurrency_limit: 12
+skip_patterns:
+    - "."
+    - "_"
